@@ -18,8 +18,6 @@ public class Main {
         //flag para manter o fluxo
         boolean flag = true;
 
-
-
         while(flag){
 
             System.out.println("Bem vindo ao menu!");
